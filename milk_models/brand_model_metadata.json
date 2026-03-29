@@ -1,0 +1,11 @@
+{
+  "brand_classes": [
+    "AMUL",
+    "COUNTRY DELIGHT",
+    "GO",
+    "METRO",
+    "MOTHER DAIRY"
+  ],
+  "final_brand_feature_mode": "rfecv_feature_set",
+  "final_input_feature_count": 37
+}

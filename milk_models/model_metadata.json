@@ -1,0 +1,16 @@
+{
+  "dataset_shape": [
+    155,
+    25
+  ],
+  "brands": [
+    "AMUL",
+    "COUNTRY DELIGHT",
+    "GO",
+    "METRO",
+    "MOTHER DAIRY"
+  ],
+  "best_brand_model": "et_clf",
+  "best_water_model": "tuned_extra_trees",
+  "feature_count": 61
+}

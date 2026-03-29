@@ -1,0 +1,16 @@
+{
+  "dataset_shape": [
+    155,
+    25
+  ],
+  "brands": [
+    "AMUL",
+    "COUNTRY DELIGHT",
+    "GO",
+    "METRO",
+    "MOTHER DAIRY"
+  ],
+  "brand_feature_mode": "rfecv_feature_set",
+  "brand_input_feature_count": 37,
+  "water_feature_count": 61
+}
